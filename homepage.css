@@ -145,6 +145,9 @@ section .footer .row ul li a {
 
 /*Mobile view*/
 @media(max-width:768px){
+    section .main .searchbox{
+    left: 0;
+    }
     section .main .searchbox .icon{
         width: 87%
     }
